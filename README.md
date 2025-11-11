@@ -1,16 +1,16 @@
 <div id="header" align="center">
-  <h1>Hi there 👋, i am lik</h1>
+  <h1>Hi there 👋, i am Rexilone</h1>
 </div>
 <h2> My contacts 💬 </h2>
 <ol>
-  <li> Telegram: @l1queds </li>
-  <li> Parallel: l1queds </li>
-  <li> Discord: l1qeuds </li>
+  <li> Telegram: @Rexilone </li>
+  <li> Parallel: Rexilone </li>
+  <li> Discord: Rexilone </li>
 </ol>
 
 <br> 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l1qued&theme=nord_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rexilone&theme=nord_dark) 
 <!--
 
 - 🔭 I’m currently working on ...
