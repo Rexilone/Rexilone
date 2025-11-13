@@ -1,13 +1,12 @@
 <div id="header" align="center">
   <h1>Hi there 👋, i am Rexilone</h1>
 </div>
+<div>
 <h2> My contacts 💬 </h2>
-<ol>
-  <li> Telegram: @Rexilone </li>
-  <li> Parallel: Rexilone </li>
-  <li> Discord: Rexilone </li>
-</ol>
-
+</div>
+<div>
+  [![Telegram Badge](https://img.shields.io/badge/telegram-chat-blue?style=for-the-badge&logoSize=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&label=Telegram&link=https%3A%2F%2Ft.me%2FAegnux)](https://t.me/Rexilone)
+</div>
 <br> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rexilone&theme=nord_dark) 
