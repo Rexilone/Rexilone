@@ -1,11 +1,10 @@
 <div id="header" align="center">
   <h1>Hi there 👋, i am Rexilone</h1>
 </div>
-<div>
+<div id="header" align="center">
 <h2> My contacts 💬 </h2>
 </div>
 <div>
-  [![Telegram Badge](https://img.shields.io/badge/telegram-chat-blue?style=for-the-badge&logoSize=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&label=Telegram&link=https://t.me/Rexilone)](https://t.me/Rexilone)
 </div>
 <br> 
 
