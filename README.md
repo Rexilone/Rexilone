@@ -5,7 +5,7 @@
 <h2> My contacts 💬 </h2>
 </div>
 <div>
-  [![Telegram Badge](https://img.shields.io/badge/telegram-chat-blue?style=for-the-badge&logoSize=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&label=Telegram&link=https%3A%2F%2Ft.me%2FAegnux)](https://t.me/Rexilone)
+  [![Telegram Badge](https://img.shields.io/badge/telegram-chat-blue?style=for-the-badge&logoSize=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&label=Telegram&link=https://t.me/Rexilone)](https://t.me/Rexilone)
 </div>
 <br> 
 
