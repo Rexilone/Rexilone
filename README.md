@@ -4,10 +4,7 @@
 <div id="header" align="center">
 <h2> My contacts 💬 </h2>
 </div>
-<div>
-<a href="https://t.me/Rexilone" target="_blank">
-  <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" width="30" height="30">
-</a>
+<div id="header" aling="center>
 <a href="https://t.me/Rexilone" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </div>
