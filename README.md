@@ -5,6 +5,9 @@
 <h2> My contacts 💬 </h2>
 </div>
 <div>
+<a href="https://t.me/Rexilone" target="_blank">
+  <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" width="30" height="30">
+</a>
 </div>
 <br> 
 
