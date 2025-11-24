@@ -14,6 +14,6 @@
 </div>
 <br>
   
-![Leetcode Stats](https://leetcard.jacoblin.cool/Rexilone?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Rexilone?theme=nord)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rexilone&theme=nord_dark) 
 
