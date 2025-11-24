@@ -7,7 +7,7 @@
 <div id="header" align="center">
 <a href="https://t.me/Rexilone" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  &nbsp;&nbsp;
+  
   <a href="https://discord.com/users/rexilone" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
