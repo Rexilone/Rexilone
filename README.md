@@ -14,9 +14,5 @@
 </div>
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Не так опасно поражение, как опасна боязнь признать своё поражение;У истоков каждого успешного проекта, стоит однажды принятое смелое решение;В конце всё обязательно должно быть хорошо. если что то плохо... значит это ещё не конец.;123" alt="Typing SVG" />
-</p>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rexilone&theme=nord_dark) 
 
