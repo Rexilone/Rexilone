@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:5E81AC&height=180&section=header&text=Rexilone&fontSize=56&fontColor=ECEFF4&animation=fadeIn&fontAlignY=36&desc=DevOps%20%26%20InfoSec%20student&descAlignY=58&descSize=18" width="100%"/>
+<h1>Hi, I'm Rexilone 👋</h1>
 
 <a href="https://github.com/Rexilone">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=88C0D0&center=true&vCenter=true&width=520&lines=%24+whoami;DevOps+%26+InfoSec+student;Securing+systems+%7C+Pentest;Web+bypass+enjoyer;Linux+ricer+%E2%80%94+I+use+Arch+btw" alt="Typing SVG"/>
@@ -87,4 +87,3 @@ rexilone@arch ~ $ cat about.txt
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:2E3440&height=100&section=footer" width="100%"/>
