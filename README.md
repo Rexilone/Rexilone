@@ -11,7 +11,6 @@
 <a href="https://t.me/Rexilone"><img src="https://img.shields.io/badge/Telegram-2E3440?style=for-the-badge&logo=telegram&logoColor=88C0D0" alt="Telegram"/></a>
 <a href="https://discord.com/users/rexilone"><img src="https://img.shields.io/badge/Discord-2E3440?style=for-the-badge&logo=discord&logoColor=88C0D0" alt="Discord"/></a>
 <a href="https://rexilone.github.io"><img src="https://img.shields.io/badge/Website-2E3440?style=for-the-badge&logo=githubpages&logoColor=88C0D0" alt="Website"/></a>
-<img src="https://komarev.com/ghpvc/?username=Rexilone&style=for-the-badge&color=5E81AC&label=VIEWS" alt="Profile views"/>
 
 </div>
 
